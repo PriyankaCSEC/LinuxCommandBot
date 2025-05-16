@@ -1,4 +1,4 @@
-LINUX_COMMAND_BOT 
+LINUX_COMMAND_BOT - translates plain text user queries into accurate linux commands.
 
 Run this file in a parallel terminal in linux.
 .
